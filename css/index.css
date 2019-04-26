@@ -129,7 +129,40 @@ p {
     align-items: center;
     justify-content: center;
 }
+.middle-content .box.box1{
+    background: teal;
+}
+.middle-content .box.box2{
+    background: gold;
+}
+.middle-content .box.box3{
+    background: cadetblue;
+}
+.middle-content .box.box4{
+    background: coral;
+}
+.middle-content .box.box5{
+    background: crimson;
+}
+.middle-content .box.box6{
+    background: forestgreen;
+}
+.middle-content .box.box7{
+    background: darkorchid;
+}
 
+.middle-content .box.box8{
+    background: hotpink;
+}
+.middle-content .box.box9{
+    background:indigo;
+}
+.middle-content .box.box10{
+    background:dodgerblue;
+}
+.middle-content .box.box1{
+    background: teal;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -164,3 +197,4 @@ footer nav a {
 }
 
 /* About Page  */
+
