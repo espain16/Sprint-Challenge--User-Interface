@@ -197,18 +197,28 @@ footer nav a {
 }
 
 /* About Page  */
-
+.headerimg{
+    margin-top:30px;
+}
+.top-about{
+    margin-bottom: 40px;
+    border-bottom: 1px dashed black;
+    
+}
 .top-row{
     
     width:48%;
+    border-bottom: 1px dashed black;
 }
-.bottom-row{
+ .bottom-row{
     width:48%;
+    border-bottom: 1px dashed black;
 }
+
 button{
   border-radius:12px;
   font-size:   18px;
   border:2px solid black;
   padding:  10px 20px;
-
+  margin-bottom: 20px;
 }
