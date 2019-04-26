@@ -198,3 +198,13 @@ footer nav a {
 
 /* About Page  */
 
+.top-row{
+    width:48%;
+}
+button{
+  border-radius:12px;
+  font-size:   18px;
+  border:2px solid black;
+  padding: 10px 20px;
+
+}
