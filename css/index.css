@@ -74,6 +74,18 @@ p {
     display: flex;
     justify-content: flex-start;
 }
+.nav-bar{
+    margin-top: 15px;
+    margin-left:85px;
+    
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color:black;
+    margin:29px;
+}
+    
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -81,12 +93,15 @@ p {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
-
+.top-content img{
+    margin: 40px 0;
+}
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
 }
+
 
 .middle-content {
     margin-bottom: 20px;
@@ -114,7 +129,6 @@ p {
     align-items: center;
     justify-content: center;
 }
-
 
 .bottom-content {
     display: flex;
@@ -148,3 +162,5 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About Page  */
