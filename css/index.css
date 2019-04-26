@@ -226,6 +226,7 @@ footer nav a {
 .card2{
     border-bottom: 1px dashed black;
     margin-bottom: 40px;
+    margin-left: 10px;
 } 
 .card2 p{
     margin-bottom: 20px;
@@ -236,12 +237,16 @@ footer nav a {
     border-width: inerit;
     margin-bottom: 40px;
 } 
+.card3 p{
+    margin-bottom: 20px;   
+}
 .card4 p{
     margin-bottom: 20px;
 }
 .card4{
     border-bottom: 1px dashed black;
     margin-bottom: 40px;
+    margin-left:10px;
 } 
 button{
     padding:10px;
