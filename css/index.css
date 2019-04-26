@@ -199,7 +199,12 @@ footer nav a {
 /* About Page  */
 
 .top-row{
+    
     width:48%;
+}
+.top-mid{
+    display: flex;
+    flex-direction: row;
 }
 button{
   border-radius:12px;
