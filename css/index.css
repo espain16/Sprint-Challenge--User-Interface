@@ -197,28 +197,59 @@ footer nav a {
 }
 
 /* About Page  */
+.about-section{
+    margin-bottom:40px;
+    border-bottom: 1px dashed black;
+}
+.about-section p{
+    margin-bottom: 20px;
+}
 .headerimg{
-    margin-top:30px;
+    margin-top:20px;
 }
-.top-about{
+.row1{
+    display: flex;
+    flex-direction: row;
+    
+}
+.row2{
+    display:flex;
+    flex-direction: row;
+}
+.card1{
+    border-bottom: 1px dashed black;
     margin-bottom: 40px;
+} 
+.card1 p{
+    margin-bottom: 20px;
+}
+.card2{
     border-bottom: 1px dashed black;
+    margin-bottom: 40px;
+} 
+.card2 p{
+    margin-bottom: 20px;
+}
+.card3{
     
-}
-.top-row{
-    
-    width:48%;
     border-bottom: 1px dashed black;
+    border-width: inerit;
+    margin-bottom: 40px;
+} 
+.card4 p{
+    margin-bottom: 20px;
 }
- .bottom-row{
-    width:48%;
+.card4{
     border-bottom: 1px dashed black;
-}
-
+    margin-bottom: 40px;
+} 
 button{
-  border-radius:12px;
-  font-size:   18px;
-  border:2px solid black;
-  padding:  10px 20px;
-  margin-bottom: 20px;
+    padding:10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border:2px solid black;
+   margin-bottom: 20px;
+}
+.bottom-p{
+    margin-bottom: 40px;
 }
