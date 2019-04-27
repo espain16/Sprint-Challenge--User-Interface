@@ -217,6 +217,7 @@ footer nav a {
     flex-direction: row;
 }
 .card1{
+    
     border-bottom: 1px dashed black;
     margin-bottom: 40px;
 } 
